@@ -1,0 +1,6 @@
+{
+  "name": "EduGuide Exam Prep",
+  "description": "An online exam preparation system featuring study materials, previous papers, mock tests, analytics, and a downloadable Java/Servlet/MySQL portfolio source package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
